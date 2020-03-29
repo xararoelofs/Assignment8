@@ -1,7 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-<--Top 
 .lead {font-family: 'Poppins', sans-serif;
 }
 
@@ -26,7 +25,6 @@ font-size: 150px;
 .jumbotron2 {background-color: #FFCDB0;
 }
 
-<--Pictures
 .picture2 {margin-bottom: 50px;
 	margin-top: 30px;
 }
@@ -40,14 +38,12 @@ font-size: 150px;
 .picture9 {margin-top: 40px;
 }
 
-<--Footer
 .text-dark {font-family: 'Poppins', sans-serif;
 }
 
 .navbar {font-family: 'Poppins', sans-serif;
 }
 
-<-- page 2 >
 .container2 {border-style: solid 30px;
 border-color: #FFCDB0;
 }
