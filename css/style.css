@@ -1,9 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
 
-.lead {font-family: 'Poppins', sans-serif;
-}
-
 .container {
 	font-family: 'Poppins', sans-serif;
 	text-alignment: center;
@@ -14,69 +11,84 @@ font-size: 150px;
 	color: #FFFFFF;
 }
 
-.display-41 {color: #FFCDB0;
-	font-family: 'Lora';
-font-size: 150px;	
-}
-
-.jumbotron {background-color: #FFEAC6;
-}
-
-.jumbotron2 {background-color: #FFCDB0;
-}
-
-.picture2 {margin-bottom: 50px;
-	margin-top: 30px;
-}
-
-.picture5 {margin-top: 30px;
-}
-
-.picture7 {margin-top: 30px;
-}
-
-.picture9 {margin-top: 40px;
-}
-
-.text-dark {font-family: 'Poppins', sans-serif;
+.jumbotron {background-color: #EADBFF;
 }
 
 .navbar {font-family: 'Poppins', sans-serif;
 }
 
-.container2 {border-style: solid 30px;
-border-color: #FFCDB0;
+.elfsight-app-ed801613-a000-4fb2-b12e-eb2e356f0cb9 {
 }
 
-.p1 {background-color: #FFCDB0;
+.p1 {
 	font-family: 'Poppins', sans-serif;
-	color: #FFFFFF;
-	margin: 30px;
-	padding: 30px;
-}
-
-.p2 {font-family: 'Poppins', sans-serif;
-color: #FFCDB0;
 	border-style: solid;
+	border-color: #EADBFF;
 	margin: 30px;
 	padding: 30px;
+	color: #535353;
 }
 
-.p3 {border-style: solid;
-border-width: thin;
-border-color: black;
-	font-family: 'Poppins', sans-serif;
+.image1 {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	padding-right: 29px;
+}
+.xararoelofs {color: #D6B6B6}
+
+.headerbox {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: center;
+	margin-bottom: -45px;
+	color: #A88C8D;
+}
+
+.headerboxsecond {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	text-align: center;
+	margin-top: -24px;
+	color: #A88C8D;
+}
+
+.newp {font-family: 'Poppins', sans-serif;}
+
+.colleft {
+	border-style: solid;
+	border-color: #EADBFF;
+	margin-top: 100px;
+	margin-bottom: 250px;
+	margin-left: -50px;
+	margin-right: 10px;
+}
+
+.colright {
+	border-style: solid;
+	border-color: #EADBFF;
+	margin-bottom: 480px;
+	margin-top: 140px;
+	margin-left: 70px;
+	margin-right: -50px;
+}
+
+.col-5 {
+	border-style: solid;
+	border-color: #EADBFF;
+	margin-left: 10px;
+	margin-right: -25px;
+	margin-bottom: 400px;
+}
+.footer {
+	margin-top: 10px; 
+	border: solid;
+	border-color: #D7B6B6;
+	font-family: 'Poppins', sans-serif;	
+}
 	
+@media screen{
+	.cvimg {
+display: block;
+		margin-left: 230px;
+		margin-right: auto;
+		width: 600px;
+	}
 }
-
-.h2 {font-family: 'Poppins', sans-serif;
-}
-
-.container3 {
-	margin-top: 30px;
-	padding: 30px;
-}
-
-.p {font-family: 'Lora';
-}
-
