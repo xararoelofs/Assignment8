@@ -80,6 +80,11 @@ font-size: 150px;
 	border-color: #D7B6B6;
 	font-family: 'Poppins', sans-serif;	
 }
+
+.image1 {
+	margin-top: 10px;
+	margin-left: 12px;
+}
 	
 @media screen{
 	.cvimg {
